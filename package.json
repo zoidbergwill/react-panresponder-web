@@ -24,6 +24,12 @@
   },
   "homepage": "https://github.com/arqex/react-panresponder-web#readme",
   "devDependencies": {
-    "bili": "^3.4.2"
+    "bili": "^3.4.2",
+    "react": "^18.2.0",
+    "react-native-renderer": "^15.5.3"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-native-renderer": "^15.5.0"
   }
 }
